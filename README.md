@@ -17,7 +17,7 @@ Full Stack Web Developer | Undergraduate Student
 🌌 Passionate about astronomy<br />
 💬 I'm available for freelance work and job opportunities<br />
 📫 You can reach me via email at contact@kirilltregubov.com<br />
-😄 My pronouns: he/him
+😄 My pronouns are he/him
 <!-- ### 📝 Latest Blog Posts -->
 
 ### 🔗 Important Links
