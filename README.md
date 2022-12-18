@@ -24,11 +24,15 @@ Full Stack Web Developer | Undergraduate Student
 [My Website](https://kirilltregubov.com) | [My LinkedIn](https://linkedin.com/in/KirillTregubov/) | [My Twitter](https://twitter.com/KirillTregubov_)
 
 ### 📚 Books I Recommend
-- [The Humane Interface by Jef Raskin](https://wikipedia.org/wiki/The_Humane_Interface)
-- [Build: An Unorthodox Guide to Making Things Worth Making by Tony Fadell](https://www.goodreads.com/en/book/show/59696349-build)
-- [Dune by Frank Herbert](https://wikipedia.org/wiki/Dune_(novel))
-- [The Expanse by James S. A. Corey](https://wikipedia.org/wiki/The_Expanse_(novel_series))
-- [The End of Eternity by Isaac Asimov](https://wikipedia.org/wiki/The_End_of_Eternity)
+[The Humane Interface by Jef Raskin](https://wikipedia.org/wiki/The_Humane_Interface)
+
+[Build: An Unorthodox Guide to Making Things Worth Making by Tony Fadell](https://www.goodreads.com/en/book/show/59696349-build)
+
+[Dune by Frank Herbert](https://wikipedia.org/wiki/Dune_(novel))
+
+[The Expanse by James S. A. Corey](https://wikipedia.org/wiki/The_Expanse_(novel_series))
+
+[The End of Eternity by Isaac Asimov](https://wikipedia.org/wiki/The_End_of_Eternity)
 
 ### 👨🏼‍💻 Languages and Frameworks
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
