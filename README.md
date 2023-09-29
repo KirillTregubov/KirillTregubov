@@ -6,13 +6,13 @@
 ██║  ██╗██║██║  ██║██║███████╗███████╗       ██║   ██║  ██║███████╗╚██████╔╝╚██████╔╝██████╔╝╚██████╔╝ ╚████╔╝ 
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝  ╚═════╝   ╚═══╝  
 
-Full Stack Web Developer | Undergraduate Student
+Full Stack Web Developer
 ```
 ### 👋🏻 Welcome to my profile!
 
-🔭 Currently working on a personal/technical blog<br />
-🏫 Pursuing a BSC in Computer Science at the University of Toronto<br />
-🌟 My preferred tech: React (TypeScript), Expo (React Native), Python, TailwindCSS, Node.js, PostgreSQL<br />
+🔭 Currently working on Beanera<br />
+🏫 BSc in Computer Science from the University of Toronto<br />
+🌟 My preferred tech: React (TypeScript), React Native (Expo), Python, Tailwind CSS, Node.js, PostgreSQL<br />
 🗣 Fluent in `English` and `Russian`, intermediate in `French`<br />
 🌌 Passionate about astronomy<br />
 💬 I'm available for freelance work and job opportunities<br />
@@ -21,9 +21,9 @@ Full Stack Web Developer | Undergraduate Student
 <!-- ### 📝 Latest Blog Posts -->
 
 ### 🔗 Important Links
-[My Website](https://kirilltregubov.com) | [My LinkedIn](https://linkedin.com/in/KirillTregubov/) | [My Twitter](https://twitter.com/KirillTregubov_)
+[My Website](https://kirilltregubov.com) | [My LinkedIn](https://linkedin.com/in/KirillTregubov/) | [My X Profile](https://x.com/KirillTregubov_)
 
-### 📚 Books I Recommend
+### 📚 Books I Love
 [The Humane Interface by Jef Raskin](https://wikipedia.org/wiki/The_Humane_Interface)
 
 [Build: An Unorthodox Guide to Making Things Worth Making by Tony Fadell](https://www.goodreads.com/en/book/show/59696349-build)
