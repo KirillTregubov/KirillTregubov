@@ -6,13 +6,14 @@
 ██║  ██╗██║██║  ██║██║███████╗███████╗       ██║   ██║  ██║███████╗╚██████╔╝╚██████╔╝██████╔╝╚██████╔╝ ╚████╔╝ 
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝  ╚═════╝   ╚═══╝  
 
-Full Stack Web Developer
+Software Developer specialized in Web and App Development
 ```
 ### 👋🏻 Welcome to my profile!
 
-🔭 Currently working on Beanera<br />
+🔭 Currently working on OverBuddy, Beanera, and contract work.<br />
 🏫 BSc in Computer Science from the University of Toronto<br />
-🌟 My preferred tech: React (TypeScript), React Native (Expo), Python, Tailwind CSS, Node.js, PostgreSQL<br />
+🌟 My preferred tech: React (TypeScript), React Native (Expo), Node.js, Python, Tailwind CSS, SQL (PostgreSQL / MySQL / SQLite)<br />
+📖 Currently learning Rust and Godot<br />
 🗣 Fluent in `English` and `Russian`, intermediate in `French`<br />
 🌌 Passionate about astronomy<br />
 💬 I'm available for freelance work and job opportunities<br />
