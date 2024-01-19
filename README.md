@@ -12,7 +12,7 @@ Software Developer specialized in Web and App Development
 
 🔭 Currently working on OverBuddy, Beanera, and contract work<br />
 🏫 BSc in Computer Science from the University of Toronto<br />
-🌟 My preferred tech: React (TypeScript), React Native (Expo), Tauri (Rust), Node.js, Python, Tailwind CSS, SQL (PostgreSQL / MySQL / SQLite)<br />
+🌟 My preferred tech: React (TypeScript), React Native (Expo), Tauri (Rust), Node.js, Tailwind CSS, SQL (PostgreSQL / MySQL / SQLite)<br />
 📖 Currently learning Rust and Godot<br />
 🗣 Fluent in `English` and `Russian`, intermediate in `French`<br />
 🌌 Passionate about astronomy<br />
