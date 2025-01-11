@@ -6,17 +6,15 @@
 ██║  ██╗██║██║  ██║██║███████╗███████╗       ██║   ██║  ██║███████╗╚██████╔╝╚██████╔╝██████╔╝╚██████╔╝ ╚████╔╝ 
 ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝  ╚═════╝   ╚═══╝  
 
-Software Developer specialized in Web and App Development
+Software Developer focused on Web and App Development
 ```
 ### 👋🏻 Welcome to my profile!
+🔨 Building user interfaces for the web, mobile, and desktop<br />
 🏫 BSc in Computer Science from the University of Toronto<br />
-🌟 My preferred tech: React (TypeScript), React Native (Expo), Tauri (Rust), Node.js, Tailwind CSS, SQL (PostgreSQL / MySQL / SQLite)<br />
-📖 Currently learning Rust and Godot<br />
+🌟 My preferred tech: React (TypeScript), React Native (Expo), Tauri (Rust), Node.js, SQL (PostgreSQL / MySQL / SQLite), TanStack, TailwindCSS, and Motion<br />
 🗣 Fluent in `English` and `Russian`, intermediate in `French`<br />
-🌌 Passionate about astronomy<br />
-💬 I'm available for freelance work and job opportunities<br />
+🌌 Passionate about astronomy and science fiction<br />
 📫 You can reach me via email at contact@kirilltregubov.com<br />
-😄 My pronouns are he/him
 
 ### 🔗 Important Links
 [My Website](https://kirilltregubov.com) | [My LinkedIn](https://linkedin.com/in/KirillTregubov/) | [My X Profile](https://x.com/KirillTregubov_)
@@ -24,14 +22,7 @@ Software Developer specialized in Web and App Development
 ### 📌 Highlight
 Do you play Overwatch and want to customize your in-game main menu background? Check out my Windows app [OverBuddy](https://kirilltregubov.com/overbuddy)!
 
-### 📚 My Favourite Books
-[The Humane Interface by Jef Raskin](https://wikipedia.org/wiki/The_Humane_Interface)
-
-[Dune by Frank Herbert](https://wikipedia.org/wiki/Dune_(novel))
-
-[The End of Eternity by Isaac Asimov](https://wikipedia.org/wiki/The_End_of_Eternity)
-
-### 👨🏼‍💻 Languages and Frameworks
+### 👨🏼‍💻 Tech Stack
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-FaF9F8?logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -68,7 +59,7 @@ Do you play Overwatch and want to customize your in-game main menu background? C
 [![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)](https://www.haskell.org/)
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 
-### 🛠 Tools and Services
+### 🛠 Tools and Services I Use
 [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)](https://www.office.com/)
 [![Figma](https://img.shields.io/badge/Figma-A259FF?logo=figma&logoColor=white)](https://figma.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](https://www.notion.so/)
@@ -93,6 +84,13 @@ Do you play Overwatch and want to customize your in-game main menu background? C
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=#00C7B7)](https://netlify.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
+
+### 📚 My Favourite Books
+[The Humane Interface by Jef Raskin](https://wikipedia.org/wiki/The_Humane_Interface)
+
+[Dune by Frank Herbert](https://wikipedia.org/wiki/Dune_(novel))
+
+[The End of Eternity by Isaac Asimov](https://wikipedia.org/wiki/The_End_of_Eternity)
 
 <h4 align="center">
     ⬇ Explore my pinned repositories below ⬇
